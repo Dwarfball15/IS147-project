@@ -1,4 +1,4 @@
-# Workout Tracker #
+#                                                            Workout Tracker #
 ## Team C member: 
 Sonia Budo, Goodluck Okafor, Omesh, Dharma Vyas, Duy Nguyen, Gared Sievers, Wurola Dedeke, Liam Ziegenfuss
 
