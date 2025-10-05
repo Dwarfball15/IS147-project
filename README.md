@@ -1,4 +1,4 @@
-#Project name: Workout Tracker #
+# Workout Tracker #
 ## Team C members: 
 **Project Manager:**
 Duy Nguyen
