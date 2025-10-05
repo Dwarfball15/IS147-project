@@ -1,6 +1,6 @@
 # Workout Tracker #
 ## Team C members: 
-** Project Manager: **Duy Nguyen
+** Project Manager: ** Duy Nguyen
 **Front-end developer:**Liam Ziegenfuss, 
 Sonia Budo, Goodluck Okafor, Omesh, Dharma Vyas, Duy Nguyen, Gared Sievers, Wurola Dedeke, Liam Ziegenfuss
 
