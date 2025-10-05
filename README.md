@@ -13,8 +13,7 @@ Amanuel Hailie, Wuraola Dedeke, Duy Nguyen
 Wuraola Dedeke
 
 **Debugger**: 
-Duy Nguyen
-<br/>
+Duy Nguyen<br/>
 
 
 ### Goal
