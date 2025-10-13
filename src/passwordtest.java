@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class password {
+public class passwordtest {
     public static boolean strongPassword(String password) {
         String passwordkey = "^(?=.*[0-9])(?=.*[!@#$%^&*()_+\\-=\\[\\]{};:'\"\\\\|,.<>/?]).{8,}$";
         return password.matches(passwordkey);
