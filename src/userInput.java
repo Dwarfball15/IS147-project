@@ -30,7 +30,6 @@ public class userInput {
 
     static String userWorkout(Scanner scanner) {
         System.out.println("\n---Workout type Input---");
-        // FIX: Added a space before the closing bracket for better readability
         System.out.print("Options: [Bench] [Squat] [Deadlift] [Cardio] ");
         System.out.print("Enter your Option: ");
         String workoutType = scanner.nextLine().trim();
@@ -40,15 +39,8 @@ public class userInput {
 
     }
 
-    // FIX: workoutTypes must accept two arguments: String and Scanner
     static void workoutTypes(String workoutChoice, Scanner scanner) {
         System.out.println("\n---Analysis----");
-
-        // FIX: The switch statement was incorrectly attempting to assign a value
-        // to 'focus' using a block-style switch without proper 'yield' or 'return'
-        // values, and it contained fall-through logic for the first case.
-        // It's restructured as a standard statement-style switch with 'break'
-        // statements to execute specific logic for each case.
 
         switch (workoutChoice.toLowerCase()) {
             case "bench":
@@ -61,7 +53,7 @@ public class userInput {
                 System.out.println("Workout: Bench");
                 System.out.println("Sets done: " + sets);
                 System.out.println("Reps done: " + reps);
-                break; // Essential to prevent execution of other cases
+                break;
 
             case "squat":
                 System.out.println("Tracking for Squat is not implemented yet.");
@@ -80,6 +72,6 @@ public class userInput {
                 break;
         }
 
-        // The original incomplete 'if (focus.equals())' was removed.
+
     }
 }
