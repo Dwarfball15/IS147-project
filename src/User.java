@@ -87,7 +87,7 @@ public class User {
     public void printStats() {
         double bmi = calculateBMI();
 
-        // Req 4: Conditional Operator
+
         String healthStatus = (bmi >= 18.5 && bmi <= 24.9) ? "Normal Weight" :
                 (bmi < 18.5) ? "Underweight" : "Overweight/Obese";
 
