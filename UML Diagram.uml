@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/gared/IS147/IS147-project-master</OriginalElement>
+  <nodes>
+    <node x="-100.0" y="183.0">StrengthExercise</node>
+    <node x="-27.0" y="34.0">FitnessTrackerApp</node>
+    <node x="6.0" y="135.0">CardioExercise</node>
+    <node x="-7.0" y="-14.0">User</node>
+    <node x="-83.0" y="82.0">Activity</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="CardioExercise" target="Activity" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="89.5" y="125.0" />
+      <point x="-29.5" y="125.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+    <edge source="StrengthExercise" target="Activity" relationship="GENERALIZATION">
+      <point x="0.0" y="-14.0" />
+      <point x="-9.0" y="125.0" />
+      <point x="-29.5" y="125.0" />
+      <point x="0.0" y="14.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Compact" zoom="1.0" showDependencies="false" x="36.5" y="98.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
