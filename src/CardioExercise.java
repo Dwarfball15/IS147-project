@@ -1,6 +1,8 @@
 /**
  * Class is in charge of prompting cardio exercises and duration
- * testing testng testing
+ * @author Duy Nguyen
+ *
+ *
  */
 public class CardioExercise extends Activity {
 

@@ -1,8 +1,11 @@
+import java.util.Scanner;
+import java.util.Random; // Req 19: Random
+
+
+
 /**
  * The "main" class. Responsible for calling all the other classes, running the actual program.
  */
-import java.util.Scanner;
-import java.util.Random; // Req 19: Random
 
 public class FitnessTrackerApp {
 

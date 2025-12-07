@@ -1,7 +1,12 @@
+
+import java.util.Date;
+
 /**
  * Class responsible for things like date and activity name
+ *
+ *
+ *
  */
-import java.util.Date;
 
 public abstract class Activity {
 
