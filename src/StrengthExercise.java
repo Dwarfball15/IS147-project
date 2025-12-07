@@ -1,5 +1,4 @@
 /**
- * IS 147 Requirement: Inheritance
  * Represents lifting exercises (Bench, Squat, Deadlift).
  */
 public class StrengthExercise extends Activity {

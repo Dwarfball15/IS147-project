@@ -1,6 +1,5 @@
 /**
- * IS 147 Requirement: Main Class
- * Drivers the application, handles input/output.
+ * The "main" class. Responsible for calling all the other classes, running the actual program.
  */
 import java.util.Scanner;
 import java.util.Random; // Req 19: Random
@@ -11,7 +10,7 @@ public class FitnessTrackerApp {
 
         Scanner scan = new Scanner(System.in);
 
-        System.out.println("Welcome to the Java Fitness Tracker!");
+        System.out.println("Welcome to the UMBC Fitness Tracker!");
         System.out.println("Please create your profile.");
 
         System.out.print("Enter Name: ");

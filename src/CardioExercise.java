@@ -1,6 +1,5 @@
 /**
- * IS 147 Requirement: Inheritance
- * Represents cardio exercises.
+ * Class is in charge of prompting cardio exercises and duration
  */
 public class CardioExercise extends Activity {
 

@@ -1,5 +1,5 @@
 /**
- * IS 147 Requirement: Encapsulation, Math, Arrays, Overloading
+ * Math, Arrays, Overloading
  * This class manages the user profile and the history of workouts.
  */
 public class User {
