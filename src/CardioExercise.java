@@ -1,5 +1,6 @@
 /**
  * Class is in charge of prompting cardio exercises and duration
+ * testing testng testing
  */
 public class CardioExercise extends Activity {
 
