@@ -70,7 +70,6 @@ public class User {
 
         for (int i = 0; i < logCount; i++) {
             if (workoutLog[i].getName().equalsIgnoreCase(filterName)) {
-                // Req 23: Printf
                 System.out.printf("Date: %s -> %s%n",
                         workoutLog[i].getDate().toString(),
                         workoutLog[i].getDetails());
