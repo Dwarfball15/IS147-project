@@ -1,3 +1,5 @@
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 import java.util.Random;
 
@@ -11,6 +13,8 @@ import java.util.Random;
 public class FitnessTrackerApp {
 
     public static void main(String[] args) {
+        System.out.println("test");
+
 
         Scanner scan = new Scanner(System.in);
 
