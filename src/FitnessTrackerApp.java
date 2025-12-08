@@ -5,6 +5,7 @@ import java.util.Random;
 
 /**
  * The "main" class. Responsible for calling all the other classes, running the actual program.
+ * just
  */
 
 public class FitnessTrackerApp {

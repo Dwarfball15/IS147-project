@@ -1,6 +1,8 @@
 /**
  * Math, Arrays, Overloading
  * This class manages the user profile and the history of workouts.
+ *
+ * Core of the user data. Personal fitness profile and workout diary
  */
 public class User {
 
